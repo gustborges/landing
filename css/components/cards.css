@@ -1,0 +1,32 @@
+.text-center {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card {
+  width: 200px;
+  margin: 5px 20px;
+  box-shadow: 0 0 5px rgba(230, 230, 230);
+  padding: 20px;
+  border-radius: 3px;
+}
+
+.card h2 {
+  text-align: center;
+
+}
+
+.card img {
+  height: auto;
+  width: 140px;
+}
+
+.card p {
+  font-weight: lighter;
+  opacity: .5;
+}

@@ -1,0 +1,14 @@
+.btn-banner {
+  color: white;
+  background-color: #1EDD88;
+  padding: 12px 30px;
+  border-radius: 40px;
+  font-weight: normal;
+  margin-top: 18px;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.btn-banner:hover {
+  background-color: #1ec97c;
+}
